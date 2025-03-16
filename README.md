@@ -2,8 +2,8 @@
 
 ## Deskripsi
 Repository ini berisi implementasi berbagai algoritma pencarian dalam ** Python ** , meliputi:
-- ** Uninformed Search **: DFS, BFS, UCS
-- ** Informed Search **: Greedy Best-First Search, A* Tree Search, A* Graph Search
+- Uninformed Search : DFS, BFS, UCS
+-  Informed Search : Greedy Best-First Search, A* Tree Search, A* Graph Search
 
 ## File dalam Repository
 - `dfs.py' > Implementasi Depth First Search
@@ -14,6 +14,6 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam ** Python 
 - `a_star_graph.py' > Implementasi A* Graph Search
 
 Cara Menjalankan di Google Colab
-1. ** Clone repository ini ke Google Colab atau komputer lokal **:
+1.  Clone repository ini ke Google Colab atau komputer lokal :
 
 ##
